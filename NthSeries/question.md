@@ -19,5 +19,4 @@ Rules:
 <br>
 NOTE: In PHP the function is called series_sum().
 
-- Fundamentals
-Loops, Control Flow, Basic Language Features, Arithmetic, Mathematics, Algorithms, Numbers, Sequences,Arrays
+#### Fundamentals, Loops, Control Flow, Basic Language Features, Arithmetic, Mathematics, Algorithms, Numbers, Sequences,Arrays
