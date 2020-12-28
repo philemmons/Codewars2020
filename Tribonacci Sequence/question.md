@@ -16,5 +16,4 @@
 
 <p> If you enjoyed this kata more advanced and generalized version of it can be found in the Xbonacci kata
 
-### Fundamentals
- - Sequences, Arrays, Arithmetic, Mathematics, Algorithms, Numbers, Lists, Data Structures
+### Fundamentals, Sequences, Arrays, Arithmetic, Mathematics, Algorithms, Numbers, Lists, Data Structures
