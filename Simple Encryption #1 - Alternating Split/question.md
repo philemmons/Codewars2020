@@ -25,5 +25,4 @@ Do this n times!
 - Simple Encryption #3 - Turn The Bits Around
 - Simple Encryption #4 - Qwerty
 
-### Fundamentals
-- Cryptography, Security, Algorithms, Strings, Arrays
+#### Fundamentals, Cryptography, Security, Algorithms, Strings, Arrays
