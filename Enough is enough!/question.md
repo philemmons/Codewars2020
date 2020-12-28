@@ -9,4 +9,4 @@ Example
 <p> EnoughIsEnough.deleteNth(new int[] {20,37,20,21}, 1) // return [20,37,21]
 <p>EnoughIsEnough.deleteNth(new int[] {1,1,3,3,7,2,2,2,2}, 3) // return [1, 1, 3, 3, 7, 2, 2, 2]
 
-- Fundamentals, Lists, Data Structures
+#### Fundamentals, Lists, Data Structures
