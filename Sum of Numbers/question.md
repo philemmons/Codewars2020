@@ -12,4 +12,4 @@
 - GetSum(-1, 0) == -1 // -1 + 0 = -1
 - GetSum(-1, 2) == 2  // -1 + 0 + 1 + 2 = 2
 
-- Fundamentals, Algorithms
+#### Fundamentals, Algorithms
