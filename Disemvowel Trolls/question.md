@@ -8,4 +8,4 @@
 
 <p> Note: for this kata y isn't considered a vowel.
 
-- Fundamentals, Strings, Regular Expressions, Declarative Programming, Advanced Language Features
+#### Fundamentals, Strings, Regular Expressions, Declarative Programming, Advanced Language Features
