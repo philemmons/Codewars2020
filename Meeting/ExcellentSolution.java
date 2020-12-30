@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class MeetingAlt {   
+class Meeting {   
   public static String meeting(String s) {
     String[] friends = s.toUpperCase().split(";");
         for (int i = 0; i < friends.length; i++){
