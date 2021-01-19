@@ -32,17 +32,4 @@ public class BalancedParens {
 	    
 	   return result;
     }
-	
-	public static void main(String[] args) {
-          System.out.println(balancedParens(0));
-          //new String[] {""}
-          System.out.println(balancedParens(1));
-          //new String[] {"()"}
-          System.out.println(balancedParens(2));
-          //new String[] {"(())","()()"}
-          System.out.println(balancedParens(3));
-          //new String[] {"((()))","(()())","(())()","()(())","()()()"}
-          System.out.println(balancedParens(4));
-          //new String[] {"(((())))","((()()))","((())())","((()))()","(()(()))","(()()())","(()())()","(())(())","(())()()","()((()))","()(()())","()(())()","()()(())","()()()()"}
-
-	}
+}
