@@ -16,7 +16,8 @@ public class ConverterTwo {
 	            sb.append(".");
 	        }
 	        sb.append(DIGITS.charAt((int) (n / Math.pow(base, exponent))));
-	        n %= Math.pow(base, exponent);
+	        //n %= Math.pow(base, exponent);
+		n -= digit * Math.pow(base, exponent);    
 	    }
 	    return (isNeg ? "-" : "") + sb.toString();
 	}
